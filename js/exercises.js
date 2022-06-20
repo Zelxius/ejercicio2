@@ -58,7 +58,7 @@ function addNumbers(number1, number2) {
     let result;
 
     if (number1 == number2) {
-        result = (number1*4)
+        result = ((number1+number2)*4)
     } else {
         result = (number1 + number2)
     }
